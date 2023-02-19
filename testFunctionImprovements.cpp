@@ -48,7 +48,7 @@ int sum1(int a, int b) {//这里若 int b=20，编译器会提示”sum1:重定义默认参数“报
 
 //main 函数
 int main(int argc, char* argv[]) {
-
+	//test();
 	test();
 	system("pause");
 	return 0;
