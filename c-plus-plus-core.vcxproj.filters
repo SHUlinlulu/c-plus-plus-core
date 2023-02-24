@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="testStaticMembers.cpp">
+    <ClCompile Include="calculation.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
